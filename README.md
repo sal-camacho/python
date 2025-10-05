@@ -41,7 +41,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
   - Used `"\n".join(ip_addresses)` to convert the list back into a newline-separated string
   - Opened the file again using `with open(import_file, "w")` to overwrite its contents
   - Applied `.write()` to save the updated list back to the file
-  - 
+    
 ## Tools Used
 
 - `open()` — to read and write files

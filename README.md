@@ -65,3 +65,8 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 - The `.split()` and `.join()` methods were essential for converting between string and list formats.
 - Automating the removal of IPs from the allow list demonstrated how Python can streamline security operations.
 - This algorithm could easily be adapted for other access control systems or log file audits.
+
+## Screenshot of Updating A File A Through Python Algorithm
+![Updating A File A Through Python Algorithm Snapshot](python.png)
+> This image captures the full response submitted as part of the Google Cybersecurity Certificate incident report activity.
+> 

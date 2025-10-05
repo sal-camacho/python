@@ -51,7 +51,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 - `if` statement — to check for matches
 - `.remove()` — to delete unauthorized IPs
 - `.join()` — to format the updated list for file writing
-- 
+  
 ## Reflections
 
 - Wrapping the logic into a function made the code reusable for future access control tasks.

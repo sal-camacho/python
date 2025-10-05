@@ -13,8 +13,6 @@ Your task is to create an algorithm that uses Python code to check whether the a
 
 This report was completed as part of the Google Cybersecurity Certificate. It documents how to use Python to automate the process of updating a file that contains IP addresses authorized to access restricted healthcare data. These tasks are essential for access control, secure file handling, and foundational automation techniques in cybersecurity.
 
----
-
 ## My Contributions
 
 - **Open the allow list file**
@@ -43,9 +41,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
   - Used `"\n".join(ip_addresses)` to convert the list back into a newline-separated string
   - Opened the file again using `with open(import_file, "w")` to overwrite its contents
   - Applied `.write()` to save the updated list back to the file
-
----
-
+  - 
 ## Tools Used
 
 - `open()` — to read and write files
@@ -55,9 +51,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 - `if` statement — to check for matches
 - `.remove()` — to delete unauthorized IPs
 - `.join()` — to format the updated list for file writing
-
----
-
+- 
 ## Reflections
 
 - Wrapping the logic into a function made the code reusable and scalable for future access control tasks.
@@ -65,6 +59,8 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 - The `.split()` and `.join()` methods were essential for converting between string and list formats.
 - Automating the removal of IPs from the allow list demonstrated how Python can streamline security operations.
 - This algorithm could easily be adapted for other access control systems or log file audits.
+
+---
 
 ## Screenshot of Updating A File A Through Python Algorithm
 ![Updating A File A Through Python Algorithm Snapshot](python.png)

@@ -62,7 +62,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 
 ---
 
-## Screenshot of Updating A File A Through Python Algorithm
+## Screenshot of Updating A File Through Python Algorithm
 ![Updating A File A Through Python Algorithm Snapshot](python.png)
 > This image captures the full response submitted as part of the Google Cybersecurity Certificate Python Algorithm report activity.
 <img width="627" height="818" alt="65" src="https://github.com/user-attachments/assets/28dc1872-bd8f-40f9-a652-912f6b13b5ec" />

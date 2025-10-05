@@ -68,5 +68,5 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 
 ## Screenshot of Updating A File A Through Python Algorithm
 ![Updating A File A Through Python Algorithm Snapshot](python.png)
-> This image captures the full response submitted as part of the Google Cybersecurity Certificate incident report activity.
+> This image captures the full response submitted as part of the Google Cybersecurity Certificate Python Algorithm report activity.
 > 

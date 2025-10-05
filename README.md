@@ -54,7 +54,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 - 
 ## Reflections
 
-- Wrapping the logic into a function made the code reusable and scalable for future access control tasks.
+- Wrapping the logic into a function made the code reusable for future access control tasks.
 - Using `with open()` ensured safe file handling without manual closing.
 - The `.split()` and `.join()` methods were essential for converting between string and list formats.
 - Automating the removal of IPs from the allow list demonstrated how Python can streamline security operations.
